@@ -1,6 +1,5 @@
 [![Solved.ac
 yoonjaehee](http://mazassumnida.wtf/api/v2/generate_badge?boj=ytjh05)](https://solved.ac/ytjh05)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonjaehee)](https://github.com/yoonjaehee/github-readme-stats)
 <!--
 **yoonjaehee/yoonjaehee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
