@@ -2,7 +2,7 @@
 yoonjaehee](http://mazassumnida.wtf/api/v2/generate_badge?boj=ytjh05)](https://solved.ac/ytjh05)
 <!--
 **yoonjaehee/yoonjaehee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+심심할때 하는 노션 정리 -> https://www.notion.so/7913a74dbbfc442c8b625d06da25581b
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
