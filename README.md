@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/notion-#000000?style=for-the-badge&logo=notion&logoColor=white">
-
-출처: https://byul91oh.tistory.com/214 [개꼬 [: 개발하는 꼬바리]]
