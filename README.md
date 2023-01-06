@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 
 <a href= "https://www.notion.so/7913a74dbbfc442c8b625d06da25581b"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 <br/>
-<a href= "https://yoonjaehee.github.io"><img src="https://img.shields.io/badge/blogger-FF5722?style=for-the-badge&logo=blog&logoColor=white">
-</a>
+<a href= "https://yoonjaehee.github.io"><img src="https://img.shields.io/badge/blogger-FF5722?style=for-the-badge&logo=blog&logoColor=white"></a>
